@@ -1,4 +1,5 @@
 Tidy Data Variables:
+
  [1] "subject"                     "activity"                   
  [3] "tBodyAcc-mean()-X"           "tBodyAcc-mean()-Y"          
  [5] "tBodyAcc-mean()-Z"           "tBodyAcc-std()-X"           
@@ -35,16 +36,16 @@ Tidy Data Variables:
 [67] "fBodyBodyGyroJerkMag-mean()" "fBodyBodyGyroJerkMag-std()"
 
 Data Sets:
-xtrain
-xtest
-xdata
-ytrain
-ytest
-ydata
-alldata
-aggdata
+- xtrain
+- xtest
+- xdata
+- ytrain
+- ytest
+- ydata
+- alldata
+- aggdata
 
 Transformations using:
-features
-mean_std_features
-activities
+- features
+- mean_std_features
+- activities
